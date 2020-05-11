@@ -354,7 +354,6 @@ insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (80, 109, 'LinkedIn');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (60, 82, 'LinkedIn');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (56, 229, 'Work');
-insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (383, 501, 'School');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (349, 130, 'LinkedIn');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (269, 286, 'School');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (109, 7, 'School');
@@ -451,7 +450,7 @@ insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (167, 175, 'School');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (240, 178, 'School');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (254, 253, 'Street');
-insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (501, 462, 'Instagram');
+
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (257, 180, 'Work');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (112, 222, 'Instagram');
 insert into REFerral (User_xarxa_idUserA, User_xarxa_idUserB, howTheyMet) values (38, 339, 'Tinder');
